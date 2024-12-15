@@ -50,12 +50,19 @@ The dataset contains the following attributes:
 - **Horsepower**
 - **Symboling** (Safety Rating)
 
----
+
 
  Files
 - SQL_Scripts/capstone_project_2_queries.sql: Contains all the SQL queries for the project.
 - Dataset/CAPSTONE_2_SAMPLE.csv: Sample data for this project.
 - README.md: Project documentation.
+
+Contact:-
+Name: Rajesh M
+Email: rajeshmusine@gmail.com
+LinkedIn:  [Rajesh M] www.linkedin.com/in/rajesh-m-92b182341 
+GitHub:  https://github.com/Rajesh-DataAnalyst/Rajesh.git
+
 
 
 
