@@ -53,7 +53,7 @@ The dataset contains the following attributes:
 
 
  Files
-- SQL_Scripts/capstone_project_2_queries.sql: Contains all the SQL queries for the project.
+- Rajesh.sql_Capstone_2.sql: Contains all the SQL queries for the project.
 - Dataset/CAPSTONE_2_SAMPLE.csv: Sample data for this project.
 - README.md: Project documentation.
 
