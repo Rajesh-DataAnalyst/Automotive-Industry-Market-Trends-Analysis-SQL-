@@ -1,4 +1,4 @@
--- PROJECT -2 (SQL) --
+-- SQL Automobile Project --
 
 -- 1).Display the entire data.  
 SELECT * FROM CAPSTONE_2;
