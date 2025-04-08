@@ -1,68 +1,72 @@
- AutoMobile-Data-Analysis-By-Oracale-SQL
+# 🚗 SQL Automotive Insights
 
-  Overview
-This project showcases my SQL querying skills by solving real-world automotive dataset problems. The dataset contains various attributes of cars, including their specifications, features, and prices.
+This project dives deep into an automotive dataset using advanced SQL analytics to extract powerful business insights related to fuel efficiency, pricing, safety, and design. The aim is to understand how various car attributes relate to performance, value, and market positioning.
 
-This project demonstrates:
-- Data querying techniques
-- Aggregation and grouping
-- Statistical analysis using SQL
-- Complex filtering and calculations
+---
 
+## 📌 Project Objectives
 
+- Analyze relationships between car features like fuel type, horsepower, price, and dimensions.
+- Apply statistical techniques to segment vehicles by efficiency, safety, and affordability.
+- Deliver insights to assist manufacturers, marketers, and customers in making informed decisions.
 
- Project Objectives:-
-Below are the tasks I performed:
+---
 
-1. Display the entire dataset.
-2. Calculate the median highway MPG for each drive wheels type.
-3. Find how many cars have both 'gas' fuel type and 'turbo' aspiration.
-4. Compute the total curb weight of cars based on body style with length greater than the average.
-5. Identify the make with the highest average highway MPG for cars with a compression ratio > 9.
-6. Calculate the average price of cars for each fuel type where the number of cylinders > 6.
-7. Find the average price of cars for each make.
-8. Determine how many cars have city MPG greater than the 90th percentile.
-9. Calculate the average length-to-width ratio of cars for each body style.
-10. Identify how many cars have a price within one standard deviation of the average price.
-11. Determine how many cars have a price higher than the 75th percentile.
-12. Select the maker and price range of the safest vehicles.
-13. Identify the make of 4WD cars with only 2 doors.
-14. Calculate the average horsepower of diesel-type cars.
-15. Calculate the average horsepower of gas-type cars with 4 doors.
+## 📂 Dataset Overview
 
+The Project consists of detailed automotive information, including:
+- **Specifications**: fuel type, number of cylinders, aspiration, drive wheels, etc.
+- **Performance**: horsepower, city/highway MPG, compression ratio.
+- **Design**: body style, length, width, curb weight, number of doors.
+- **Safety**: symboling (safety rating).
+- **Market**: make (brand), price.
 
+---
 
- Dataset:-
-The dataset contains the following attributes:
-- **Make**
-- **Fuel Type**
-- **Aspiration**
-- **Body Style**
-- **Drive Wheels**
-- **Highway MPG**
-- **City MPG**
-- **Length**
-- **Width**
-- **Curb Weight**
-- **Compression Ratio**
-- **Number of Cylinders**
-- **Price**
-- **Horsepower**
-- **Symboling** (Safety Rating)
+## 🧠 Key Insights
 
+### 🔹 Fuel Efficiency
+- **Drive wheel types** vary significantly in highway fuel efficiency.
+- A small number of cars stand out with **exceptional city MPG**, surpassing the 90th percentile.
 
+### 🔹 Engine & Power
+- Cars with **more than six cylinders** are notably higher in price, especially when grouped by fuel type.
+- **Diesel vs. Gas**: diesel cars show distinct horsepower performance compared to gas-powered vehicles.
 
- Files
-- Rajesh.sql_Capstone_2.sql: Contains all the SQL queries for the project.
-- Automobile_dataset_COGNICO.csv: Sample data for this project.
-- README.md: Project documentation.
+### 🔹 Pricing Patterns
+- Clear variation in **average car prices across makes**, indicating different market segments.
+- Majority of cars fall within **one standard deviation** of the average price, while a notable group exceeds the **75th percentile**, representing the luxury category.
 
-Contact:-
-Name: Rajesh M
-Email: rajeshmusine@gmail.com
-LinkedIn:  [Rajesh M] www.linkedin.com/in/rajesh-m-92b182341 
-GitHub:  https://github.com/Rajesh-DataAnalyst/Rajesh.git
+### 🔹 Design & Structure
+- The **length-to-width ratio** varies by body style, influencing design preferences and vehicle aerodynamics.
+- Among longer cars, **total curb weight** is significantly higher in certain body styles.
 
+### 🔹 Safety & Niche Segments
+- Safest cars (lowest symboling) are identified along with their make and price range.
+- Rare configurations such as **4WD cars with 2 doors** and **gas-turbo combinations** are highlighted, useful for niche market targeting.
 
+---
 
+## 📈 Business Value
 
+This analysis serves stakeholders across the automotive ecosystem:
+- **Manufacturers**: Optimize product offerings by understanding trends in power, efficiency, and design.
+- **Marketers**: Tailor campaigns for premium, eco-friendly, or budget segments.
+- **Consumers**: Identify value-for-money and safe vehicle options.
+- **Analysts**: Use as a base for predictive modeling, segmentation, or recommendation systems.
+
+---
+
+## 🛠 Skills Applied
+
+- Advanced SQL querying (aggregates, filtering, group-by, percentiles, subqueries)
+- Statistical reasoning (median, standard deviation, percentile analysis)
+- Business intelligence and data storytelling
+
+---
+
+## ✅ Conclusion
+
+This project offers a 360° view of automotive data through the lens of SQL analytics. The insights derived support strategic decisions in product development, pricing strategies, safety assessments, and marketing focus.
+
+---
