@@ -70,3 +70,5 @@ This analysis serves stakeholders across the automotive ecosystem:
 This project offers a 360° view of automotive data through the lens of SQL analytics. The insights derived support strategic decisions in product development, pricing strategies, safety assessments, and marketing focus.
 
 ---
+
+⭐ If you found this helpful, please give it a star!
