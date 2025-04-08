@@ -69,6 +69,13 @@ This analysis serves stakeholders across the automotive ecosystem:
 
 This project offers a 360° view of automotive data through the lens of SQL analytics. The insights derived support strategic decisions in product development, pricing strategies, safety assessments, and marketing focus.
 
----
+## 📩 Contact
+
+**Name:** [Rajesh M]  
+**Email:** [rajesh.mr1308@gmail.com]  
+**LinkedIn:** [www.linkedin.com/in/rajesh-m-92b182341]
+**GitHub:** [https://github.com/Rajesh-DataAnalyst]
+
 
 ⭐ If you found this helpful, please give it a star!
+
